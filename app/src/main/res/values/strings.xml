@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="txtHola">¡Hola Mundo!</string>
+    <string name="btnSaludo">¡Salúdame!</string>
+    <string name="txtLongClick">Ya has pulsado largo</string>
+    <string name="txtClick">Ya has pulsado corto</string>
+</resources>
